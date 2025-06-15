@@ -76,8 +76,8 @@ python main.py
 
 ## ✴️ 页面截图
 #### 😺 欢迎页面
-![image](imgs\welcome.png)
+![image](welcome.png)
 #### 👨 作者页面
-![image](imgs\author.png)
+![image](author.png)
 #### 🛖 主页面
-![image](imgs\main.png)
+![image](main.png)
