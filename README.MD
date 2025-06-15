@@ -30,7 +30,6 @@
 * `Python 3.x`
 * `Tkinter` —— 图形用户界面构建
 * `Matplotlib` —— 电路图形绘制与交互组件（Slider, Button, TextBox）
-* `Numpy`（可选）—— 数值支持（仅少量使用）
 
 ## 🚀 启动方式
 
