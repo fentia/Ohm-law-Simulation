@@ -79,8 +79,4 @@ python main.py
 #### 👨 作者页面
 ![image](author.png)
 #### 🛖 主页面
-<<<<<<< HEAD
 ![image](main.png)
-=======
-![image](imgs\main.png)
->>>>>>> 98d77ce5f61e204545684f842dd184e2eb6410b2
